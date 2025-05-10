@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Game Helper (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Game Helper (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
